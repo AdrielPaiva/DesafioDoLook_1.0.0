@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Projects01\DesafioDoLook_1.0.0\volley\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="863e41d99c0a400ba9cd8331b33d1b31e76520ef">
+        <dex dex="C:\Projects01\DesafioDoLook_1.0.0\app\build\intermediates\pre-dexed\debug\classes_c94d892b4505d9169f58df7a1d99d5c10c306165.jar" />
+    </item>
+
+</items>
